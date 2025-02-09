@@ -34,6 +34,7 @@ table {
     font-family: Helvetica, sans-serif;
     color: whitesmoke;
     background-color: #9b9ba4;
+    max-width: 100%;
 }
 
 
