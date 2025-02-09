@@ -11,6 +11,15 @@ nav {
     }
 }
 
+@media (max-width: 768px) {
+    .square {
+        width: 95%;
+        left: 2.5%;
+        height: auto;
+        overflow: hidden;
+    }
+}
+
 nav a {
     color: white;
     padding: 14px 20px;
